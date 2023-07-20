@@ -62,7 +62,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 ### Svelte
-**TTYL**: Svelte is one of the most popular frameworks. This is the framework I use the most. It is an incredibly fast framework that consist of useful features while easy to use. It has its own file extension called `.svelte` as well as a npm registry ran by `npm install svelte`. Run that command to get started. Here is a basic counter on svelte
+**TTYL**: Svelte is one of the most popular frameworks. This is the framework I use the most. It is an incredibly fast framework that consist of useful features while easy to use. It has its own file extension called `.svelte` as well as a npm registry ran by `npm install svelte`. Run that command to get started. Here is a basic counter on svelte:
 
 `app.svelte`
 ```svelte
@@ -90,5 +90,16 @@ Svelte cons:
 3. Small open source ecosystem
 
 #### Why do I use svelte?
-Svelte is used for small programs. Its opensource so you can rely on their code. But since its not a big framework with more functions like react, you can't trust it on big apps. A very fast application too!
+Svelte is used for small programs. Its opensource so you can rely on their code. But since its not a big framework with more functions like react, you can't trust it on big apps. It is a very fast application too!
+
+The svelte test is at `./svelte/app.svelte` and explaination is at `./svelte/map.md`.
+
+## Contribution 
+Two ways to contribute: 
+1. Make a fork of the repo => Go to the `frameworks.txt` file. => Add a framework (frontend only!) => Send a pull request!
+2. Any bugs in the code or docs can be sent as a issue. Other things (except security reasons) can be a pull request. Make sure to write the name of the issue.
+
+All ways are greatly appreciated!
+## License
+
 
