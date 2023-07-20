@@ -101,5 +101,5 @@ Two ways to contribute:
 
 All ways are greatly appreciated!
 ## License
-
+This repository is in the [The 3-Clause BSD License](https://opensource.org/license/bsd-3-clause/).
 
